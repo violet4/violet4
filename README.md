@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Violet (she/her). I have 4 years of experience as a Software Engineer at data company Carjojo Corp. and am a new graduate (May 2020) from SJSU with a B.S. in CS cum laude seeking entry level positions in the cybersecurity industry. I am passionate about cybersecurity, digital privacy, and actively enhancing my awareness of analyzing, understanding, preventing and mitigating cyber threats, and am currently studying for CISSP (Certified Information Systems Security Professional). I hold a strong interest in computer networks, relational and NoSQL databases, machine learning and AI. Ideally I am looking for positions aligned to Cybersecurity Researcher, Cybersecurity Engineer, Penetration Tester, and Security Operations Analyst.
+I’m Violet Eldridge (she/her), a Software Engineer with industry experience building backend and full-stack systems from scratch since 2014. I’m passionate about FOSS, automation, and data. I hold a strong interest in computer networks, cybersecurity, relational databases, machine learning, and AI.
 
-I've tutored master and undergraduate students in machine learning, and have also mentored 3 students through SJSU PRIDE Center's PIP program. I am seeking mentorship in cybersecurity, and am also seeking to become a cybersecurity mentor.
+I've tutored master and undergraduate students in machine learning, and have also mentored 3 students through SJSU PRIDE Center's PIP program.
 
 [LinkedIn](https://www.linkedin.com/in/violet-eldridge/)
 
