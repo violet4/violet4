@@ -8,6 +8,7 @@ Leadership
 * Mentored 3 students through SJSU PRIDE Center's peer mentorship program, 2019
 
 [LinkedIn](https://www.linkedin.com/in/violet-eldridge/)
+[Website](https://violeteldridge.com)
 
 <!--
 **violet4/violet4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
