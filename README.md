@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Violet Eldridge (she/her), a Software Engineer with industry experience building backend and full-stack systems from scratch since 2014. I’m passionate about FOSS, automation, and data. I hold a strong interest in computer networks, cybersecurity, relational databases, machine learning, and AI.
+I’m Violet Eldridge (she/her), a Software Engineer with industry experience building backend and full-stack systems from scratch since 2014. I’m passionate about FOSS, automation, and data. I hold strong interests in a variety of topics including computer networks, cybersecurity, relational databases, machine learning, and AI.
 
 Leadership
 * Lead and local chair for an Employee Resource Group at Seagate Technology, 2022-2023
