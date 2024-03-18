@@ -3,7 +3,7 @@
 I’m Violet Eldridge (she/her), a Software Engineer with industry experience building backend and full-stack systems from scratch since 2014. I’m passionate about FOSS, automation, and data. I hold strong interests in a variety of topics including computer networks, cybersecurity, relational databases, machine learning, and AI.
 
 Leadership
-* Served as lead and local chair for an Employee Resource Group at Seagate Technology, 2022-2023
+* Served as lead and local chair for an Employee Resource Group at a large technology company, 2022-2023
 * Tutored master and undergraduate students in machine learning, 2019
 * Mentored 3 students through SJSU PRIDE Center's peer mentorship program, 2019
 
